@@ -18,6 +18,10 @@ Technologies Used: NodeJS, ExpressJS, EJS, CSS, JavaScript, Nodemon, MongoDB, Mo
 - Create, Update, and Delete Tasks: Enable users to create new tasks, update existing tasks (e.g., mark as completed, edit task details), and delete tasks they no longer need.
 - Task Categories provides Implement the ability for users to categorize their tasks into different categories (e.g., work, personal, shopping) or assign labels/tags to tasks for better organization and filtering.
 - MongoDb to store your the user data
+- 
+- ### Running the Project
+
+By default, the app runs on http://localhost:4000
 # author
 Gauri Jakhmola
 
